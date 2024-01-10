@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jamon/static/css/main.36f96102.css",
+    "main.js": "/jamon/static/js/main.e7035081.js",
+    "static/js/787.e7b698a3.chunk.js": "/jamon/static/js/787.e7b698a3.chunk.js",
+    "index.html": "/jamon/index.html",
+    "main.36f96102.css.map": "/jamon/static/css/main.36f96102.css.map",
+    "main.e7035081.js.map": "/jamon/static/js/main.e7035081.js.map",
+    "787.e7b698a3.chunk.js.map": "/jamon/static/js/787.e7b698a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f96102.css",
+    "static/js/main.e7035081.js"
+  ]
+}
